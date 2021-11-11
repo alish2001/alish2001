@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Ali and I am currently a second year Software Engineering student at UWaterloo!
+2x Hack the North winner 🏆
+Previously: TD Bank SWE
+
 
 <!--
 **alish2001/alish2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
