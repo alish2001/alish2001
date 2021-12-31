@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ali and I am currently a second year Software Engineering student at UWaterloo!
-Previously at TD Bank, interested in blockchain/crypto dev.
+Previously at TD Bank, interested in blockchain/crypto dev. Currently doing Blockchain Dev @ Bloq
 
 
 <!--
