@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Ali and I am currently a second year Software Engineering student at UWaterloo!
-Currently at Bloq, previously at TD Bank, interested in blockchain/crypto dev. Currently doing Blockchain Dev @ Bloq
+Previous at Bloq and TD Bank, interested in blockchain/crypto dev.
+Returning to Bloq as a Blockchain Dev and CapsuleNFT as a SWE this fall.
 
 
 <!--
