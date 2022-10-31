@@ -1,8 +1,12 @@
-### Hi there 👋
-My name is Ali and I am currently a second year Software Engineering student at UWaterloo!
-Previous at Bloq and TD Bank, interested in blockchain/crypto dev.
-Returning to Bloq as a Blockchain Dev and CapsuleNFT as a SWE this fall.
+### Hey there, I'm Ali! 👋
+💿 My name is **Ali** and I am a third year Software Engineering student at UWaterloo! <br />
+🔭 I am currently working as a Software Engineer at **CapsuleNFT** and **Bloq**! <br />
+🌱 Previously worked at **Bloq** and **TD Bank**, interested in general SWE, fullstack, and blockchain dev. <br />
 
+🥇 2x Hack the North Winner [back](https://bit.ly/ctrlairspace-devpost)-to-[back](https://bit.ly/diva-devpost) <br />
+🎥 I also do professional cinematography/video editing, available for shoots/video editing work.
+
+📫 Feel free to contact me and view my resume on [**alish.se**](alish.se)
 
 <!--
 **alish2001/alish2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
