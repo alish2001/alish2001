@@ -4,7 +4,7 @@
 🌱 Previously worked at **Bloq** and **TD Bank**, interested in general SWE, fullstack, and blockchain dev. <br />
 
 🥇 2x Hack the North Winner [back](https://bit.ly/ctrlairspace-devpost)-to-[back](https://bit.ly/diva-devpost) <br />
-🎥 I also do professional cinematography/video editing, available for shoots/video editing work.
+🎥 I also do professional cinematography/video editing, available for shoots and editing work.
 
 📫 Feel free to contact me and view my resume on [**alish.se**](alish.se)
 
