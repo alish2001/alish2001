@@ -6,7 +6,7 @@
 🥇 2x Hack the North Winner [back](https://bit.ly/ctrlairspace-devpost)-to-[back](https://bit.ly/diva-devpost) <br />
 🎥 I also do professional cinematography/video editing, available for shoots and editing work.
 
-📫 Feel free to contact me and view my resume on [**alish.se**](alish.se)
+📫 Feel free to contact me and view my resume on [**alish.se**](https://alish.se)
 
 <!--
 **alish2001/alish2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
