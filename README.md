@@ -1,7 +1,7 @@
 ### Hey there, I'm Ali! 👋
 💿 My name is **Ali** and I am a third year Software Engineering student at UWaterloo! <br />
 🔭 I am currently **looking for internship opportunities for Summer 2023!** <br />
-🌱 Previously worked at [**CapsuleNFT**](https://capsulenft.com), [**Bloq**](https://bloq.com) and [**TD Bank**](https://td.com), interested in general SWE, fullstack, and blockchain dev. <br />
+🌱 Previously worked at [**Capsule**](https://capsulenft.com), [**Bloq**](https://bloq.com) and [**TD Bank**](https://td.com), interested in Software Engineering of all kinds and flavours.<br />
 
 🥇 2x Hack the North Winner [back](https://bit.ly/ctrlairspace-devpost)-to-[back](https://bit.ly/diva-devpost) <br />
 🎥 I also do professional cinematography/video editing, available for shoots and editing work.
