@@ -1,5 +1,5 @@
 ### Hey there, I'm Ali! 👋
-💿 I am a 4th year Software Engineering student at UWaterloo!
+💿 I am a 4th year Software Engineering student at UWaterloo! <br />
 🔭  https://alish.se
 <!--🌱 Previously worked at [**Capsule**](https://capsulenft.com), [**Bloq**](https://bloq.com) and [**TD Bank**](https://td.com), interested in Software Engineering of all kinds and flavours.<br />
 
