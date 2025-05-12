@@ -1,5 +1,5 @@
 ### Hey there, I'm Ali! 👋
-💿 4th year Software Engineering @ UWaterloo // cinematography // building <br />
+💿 Software @ Robinhood, Software Engineering Alumini @ UWaterloo // cinematography // building <br />
 🔭  https://alish.se
 <!--🌱 Previously worked at [**Capsule**](https://capsulenft.com), [**Bloq**](https://bloq.com) and [**TD Bank**](https://td.com), interested in Software Engineering of all kinds and flavours.<br />
 
